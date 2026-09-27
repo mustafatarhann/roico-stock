@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "ROICO STOCK",
+    "slug": "roico-stock",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "ROICO STOCK barkod okutmak için kamerayı kullanır."
+        }
+      ]
+    ]
+  }
+}
